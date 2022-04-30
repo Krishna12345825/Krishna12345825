@@ -2,7 +2,7 @@
 
 
                                                     Welcome to my github profile! 👋 
-     [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=90D009&lines=I+am+a++Java+Developer;I+am+Krishna+Kumar;Computer+Engineer;Always+learning+new+things)](https://git.io/typing-svg)
+ 
      
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
