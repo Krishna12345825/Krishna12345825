@@ -1,8 +1,8 @@
-### Hi there 👋
 
 
-                                                    Welcome to my github profile! 
-                                                    [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
+                                                    Welcome to my github profile! 👋 
+                                                   
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
