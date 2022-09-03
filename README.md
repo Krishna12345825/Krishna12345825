@@ -1,8 +1,8 @@
 
 
 
-                                                    Welcome to my github profile! 👋 
-                                                    LeetCode Profile   https://leetcode.com/krishna_987/
+                                                     Welcome to my github profile! 👋 
+                                         LeetCode Profile:  https://leetcode.com/krishna_987/
  
         Glad to see you here!
          I'm a final year student pursuing Bachelors's in Computer Science 🎓 from Centurion  University  Of Technology & management 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡.  I'm currently learing Java , Spring Boot , Spring Boot Mvc, Rest API's , Microservices, Angular 🕸️ and working on strong my knowledge on programming world 🤓.
