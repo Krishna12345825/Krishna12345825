@@ -2,7 +2,7 @@
 
 
                                                      Welcome to my github profile! 👋 
-                                           ##  LeetCode Profile:  [live Link]([https://leetcode.com/krishna_987/])
+                                           ##  LeetCode Profile:  [live Link]([https://projec15.netlify.app/](https://leetcode.com/krishna_987/))
  
         Glad to see you here!
          I'm a final year student pursuing Bachelors's in Computer Science 🎓 from Centurion  University  Of Technology & management 🏛.
