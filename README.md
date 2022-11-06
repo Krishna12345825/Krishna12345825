@@ -1,7 +1,7 @@
 
 
  Welcome to my github profile! 👋 
-  [live Link](https://krishnakumaryadav.netlify.app/)
+  ## Personal Profile : [live Link](https://krishnakumaryadav.netlify.app/)
    ## LeetCode Profile:  [live Link](https://leetcode.com/krishna_987/)
                         
     Glad to see you here!
