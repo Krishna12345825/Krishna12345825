@@ -4,7 +4,7 @@
   ## [KRISHNA KUMAR🤔🤔](https://krishnakumaryadav.netlify.app/)
    ## LeetCode Profile:  [live Link](https://leetcode.com/krishna_987/)
                         
-    Glad to see you here!
+   Glad to see you here!
      I'm a final year student pursuing Bachelors's in Computer Science 🎓 from 
                                  Centurion  University  Of Technology & management 🏛.
      I'm a passionate learner who's always willing to learn and work across
