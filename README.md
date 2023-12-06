@@ -1,4 +1,8 @@
 
+</h2>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=F73C07&lines=Welcome+to+Programming+world;I+am+Krishna+Yadav+.+%F0%9F%91%8B+;I+am+a+programmer+.;Computer%20Engineer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+</p>
   <h1 align="center">Hi 👋, I'm Krishna Yadav 😇</h1>
   <h3 align="center">Full Stack Developer | Java | Coding enthusiast | Learner</h3>
 <img align="right" alt="coding"width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
@@ -56,24 +60,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Krishna12345825&show_icons=true&locale=en" alt="Krishna12345825" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Krishna12345825&" alt="Krishna12345825" /></p>
-
-
-
-
-
-
-
-
-
-  
-</h2>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=F73C07&lines=Welcome+to+Programming+world;I+am+Krishna+Yadav+.+%F0%9F%91%8B+;I+am+a+programmer+.;Computer%20Engineer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
-</p>
-
-
-  
-
 
 
 <br><br>
