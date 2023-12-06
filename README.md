@@ -5,19 +5,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Krishna12345825&label=Profile%20views&color=0e75b6&style=flat" alt="Krishna12345825" /> </p>
 
--  Welcome to my github profile! 👋
+-  Welcome to my GitHub profile! 👋
 -  
   ## [KRISHNA KUMAR🤔🤔](https://krishnakumaryadav.netlify.app/)
    ## LeetCode Profile:  [live Link](https://leetcode.com/krishna_987/)
    ## Coding Ninjas Profile:  [live Link](https://www.codingninjas.com/studio/profile/Krishna123)
 - 🧕Pronouns **He/him**                
    Glad to see you here!
-     I'm a final year student pursuing Bachelors's in Computer Science 🎓 from 
+     I'm a final-year student pursuing a bachelor's in Computer Science 🎓 from 
                                  Centurion  University  Of Technology & management 🏛.
      I'm a passionate learner who's always willing to learn and work across
                                                          technologies and domains 💡.
-     I'm currently learing Java , Spring Boot , Spring Boot Mvc, Rest API's , 
-                  Microservices, Angular 🕸️ and working on strong my knowledge on programming world 🤓.
+     I'm currently learning Java, Spring Boot, Spring Boot MVC, Rest API's, 
+                  Microservices, Angular 🕸️, and working on strengthening my knowledge of the programming world 🤓.
 - 🌱 I’m currently learning **Full stack java certification.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Krishna12345825](https://github.com/Krishna12345825)
@@ -35,7 +35,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/krishna-yadav9771/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/krishna-yadav9771//" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/krishna-yadav9771/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/krishna-yadav9771//" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/jenadeba07?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/jenadeba07?hr_r=1" height="30" width="40" /></a>
 </p>
 
