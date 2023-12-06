@@ -1,10 +1,16 @@
 
+  <h1 align="center">Hi 👋, I'm Krishna Yadav 😇</h1>
+<h3 align="center">A passionate Student.</h3>
+<img align="right" alt="coding"width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
- Welcome to my github profile! 👋 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Krishna12345825&label=Profile%20views&color=0e75b6&style=flat" alt="Krishna12345825" /> </p>
+
+-  Welcome to my github profile! 👋
+-  
   ## [KRISHNA KUMAR🤔🤔](https://krishnakumaryadav.netlify.app/)
    ## LeetCode Profile:  [live Link](https://leetcode.com/krishna_987/)
    ## Coding Ninjas Profile:  [live Link](https://www.codingninjas.com/studio/profile/Krishna123)
-                        
+- 🧕Pronouns **He/him**                
    Glad to see you here!
      I'm a final year student pursuing Bachelors's in Computer Science 🎓 from 
                                  Centurion  University  Of Technology & management 🏛.
@@ -12,6 +18,11 @@
                                                          technologies and domains 💡.
      I'm currently learing Java , Spring Boot , Spring Boot Mvc, Rest API's , 
                   Microservices, Angular 🕸️ and working on strong my knowledge on programming world 🤓.
+- 🌱 I’m currently learning **Full stack java certification.**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Krishna12345825](https://github.com/Krishna12345825)
+
+- 😍 How to reach me **krishnabhai117@gmail.com**
  
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -21,23 +32,6 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
-
-
-  <h1 align="center">Hi 👋, I'm Krishna Yadav 😇</h1>
-<h3 align="center">A passionate Student.</h3>
-<img align="right" alt="coding"width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Krishna12345825&label=Profile%20views&color=0e75b6&style=flat" alt="Krishna12345825" /> </p>
-
-- 🌱 I’m currently learning **Full stack java certification.**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Krishna12345825](https://github.com/Krishna12345825)
-
-- 😍 How to reach me **krishnabhai117@gmail.com**
-
-- 🧕Pronouns **He/him**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
