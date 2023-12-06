@@ -1,15 +1,20 @@
 
   <h1 align="center">Hi 👋, I'm Krishna Yadav 😇</h1>
-<h3 align="center">A passionate Student.</h3>
+  <h3 align="center">Full Stack Developer | Java | Coding enthusiast | Learner</h3>
 <img align="right" alt="coding"width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Krishna12345825&label=Profile%20views&color=0e75b6&style=flat" alt="Krishna12345825" /> </p>
-
--  Welcome to my GitHub profile! 👋
--  
-  ## [KRISHNA KUMAR🤔🤔](https://krishnakumaryadav.netlify.app/)
-   ## LeetCode Profile:  [live Link](https://leetcode.com/krishna_987/)
-   ## Coding Ninjas Profile:  [live Link](https://www.codingninjas.com/studio/profile/Krishna123)
+<p align="center">
+  <h3 align="left">Connect with me:</h3>
+<a href="https://www.linkedin.com/in/krishna-yadav9771/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/krishna-yadav9771/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="mailto:krishnabhai117@gmail.com?subject=Hi%Krishna"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+<a href="https://krishnakumaryadav.netlify.app/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>
+ 
+</p>
+ 
+## LeetCode Profile:  [live Link](https://leetcode.com/krishna_987/)
+## Coding Ninjas Profile:  [live Link](https://www.codingninjas.com/studio/profile/Krishna123)
 - 🧕Pronouns **He/him**                
    Glad to see you here!
      I'm a final-year student pursuing a bachelor's in Computer Science 🎓 from 
@@ -19,11 +24,6 @@
      I'm currently learning Java, Spring Boot, Spring Boot MVC, Rest API's, 
                   Microservices, Angular 🕸️, and working on strengthening my knowledge of the programming world 🤓.
 - 🌱 I’m currently learning **Full stack java certification.**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Krishna12345825](https://github.com/Krishna12345825)
-
-- 😍 How to reach me **krishnabhai117@gmail.com**
- 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -32,12 +32,6 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/krishna-yadav9771/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/krishna-yadav9771//" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/jenadeba07?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/jenadeba07?hr_r=1" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
@@ -55,10 +49,7 @@
 
 
 
-<!--    -->
-   
-<h2 align="center">
-  Welcome to Krishna Yadav's profile!
+
   
 </h2>
 <p align="center">
@@ -66,47 +57,7 @@
 </p>
 
 
-<p align="right">
-<!-- <a href="https://wakatime.com/@49aa31bd-cc77-415d-b598-9dc1dfa69abf">
-  <img src="https://wakatime.com/@49aa31bd-cc77-415d-b598-9dc1dfa69abf.svg?style=social" alt="Total time coded since Sep 27 2021" />
-</a> -->
-</p>
   
-<p align="center">
-  <a href="https://github.com/avaibhav54?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/avaibhav54"/></a>
-  <a href="https://github.com/avaibhav54?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/avaibhav54?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-</p>
-
-
-
-
-<h3 align="center">Full Stack Developer | Java | Coding enthusiast | Learner</h3>
-
-
-<p align="center">
-    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/Sumanth-Talluri" />
-</p>
-<p align="center">
-<br>
-<a href="https://www.linkedin.com/in/krishna-yadav9771/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/krishna-yadav9771/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="mailto:krishnabhai117@gmail.com?subject=Hi%Krishna"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-<a href="https://krishna.com/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>
- 
-</p>
-
-
-
-
-
-<h1>My GitHub Stats <img src="https://media.giphy.com/media/cmOBZdewjfLzV9NQiH/giphy.gif" width="48" /></h1>
-
-|<img align=center alt="Krishna12345825's streak" src="https://github-readme-stats.vercel.app/api?username=Krishna12345825&show_icons=true&count_private=true&include_all_commits=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?&user=Krishna12345825&theme=dark"/>|
-|---|---|
-
-<a href="#"><img alt="Krishna12345825's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=Krishna12345825&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 
 <h1>Weapons <img src="https://media.giphy.com/media/2yzGTewUsGil0LFCTv/giphy.gif" width="48" /></h1>
